@@ -1,1 +1,3 @@
-# KazAli-Coding-Lab
+# Project Plan
+
+**Project title:** Kazakh Aliexpress "KazAli"
