@@ -148,7 +148,7 @@ Supporter\
 [Personal Page](https://loocay.github.io/Loocay/)\
 Skills:
 * HTML
-* Css
+* CSS
 * JavaScript
 * Node.js
 * Java
@@ -161,7 +161,7 @@ Skills:
 * HTML
 * CSS
 * JavaScript
-* NOde.js
+* Node.js
 * Java
 * C++
 
